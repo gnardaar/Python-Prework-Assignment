@@ -1,9 +1,6 @@
 #question 1:
 #Write a function to print "hello_USERNAME!" USERNAME is the input of the function. The first line of the code has been defined as below.
 
-from re import A
-
-
 def hello_name(user_name):
     user_name = "paul"
     if user_name == "andy".title():
